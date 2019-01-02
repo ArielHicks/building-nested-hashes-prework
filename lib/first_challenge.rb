@@ -1,6 +1,5 @@
 def epic_tragedy
-  {
-  :montague => {},
+  {:montague => {},
   :capulet => {}
 }
 end
