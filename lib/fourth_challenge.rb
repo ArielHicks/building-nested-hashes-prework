@@ -6,8 +6,8 @@ def fourth_challenge
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
         :name => {"Benvolio", "Mercutio"},
-        :age => {"17", "18"}
-        :attitude => {"worried", "hot-headed"}
+        :age => {"17", "18"},
+        :attitude => {"worried", "hot-headed"},
         #your hashes here!
       ]
    },
