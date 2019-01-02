@@ -4,7 +4,8 @@ second_challenge = {
                     :patriarch => {},
                     :matriarch => {},
                     :hero => {},
-                    :hero_friends => {}
+                    :hero_friends => []
                   }
+
 
 end
