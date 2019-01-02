@@ -1,4 +1,3 @@
-def epic_tragedy = {
+def epic_tragedy
   
-}
 end
